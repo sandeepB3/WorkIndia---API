@@ -14,7 +14,7 @@ To design a railway management system like IRCTC,
 | API | Description|
 | :-------- | :------- | 
 | `/api/admin/login` | `To allow admins to login` | 
-| `/api/admin/login | `For admins to add trains` | 
+| `/api/admin/login` | `For admins to add trains` | 
 | `/api/users/signup` | `To register users` | 
 | `/api/users/login` | `To login users` | 
 | `/api/users/logout` | `To logout users` | 
